@@ -1,1 +1,1 @@
-worker: python3 PornHub
+worker: python3 PornHub.py
