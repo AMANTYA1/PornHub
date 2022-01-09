@@ -7,11 +7,6 @@ from asyncio import get_running_loop
 from wget import download
 from config import OWNER, BOT_NAME, REPO_BOT, ARQ_API_KEY, UPDATES_CHANNEL, TOKEN
 
-
-#------
-# Config Check-----------------------------------------------------------------
-
-# ARQ API and Bot Initialize---------------------------------------------------
 session = ClientSession()
 
 
