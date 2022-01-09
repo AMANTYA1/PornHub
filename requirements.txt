@@ -1,0 +1,11 @@
+requests
+python-arq
+Pyrogram
+TgCrypto
+aiohttp
+asyncio
+wget
+youtube_dl
+validators
+dotmap
+aiofiles
