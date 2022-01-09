@@ -5,7 +5,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, 
 from Python_ARQ import ARQ 
 from asyncio import get_running_loop
 from wget import download
-from config import OWNER, BOT_NAME, REPO_BOT, ARQ_API_KEY, UPDATES_CHANNEL, TOKEN
+from config import OWNER, BOT_NAME, ARQ_API_KEY, UPDATES_CHANNEL, TOKEN
 
 session = ClientSession()
 
